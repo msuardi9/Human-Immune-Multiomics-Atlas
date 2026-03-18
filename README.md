@@ -1,5 +1,8 @@
 # Human Immune Multiomics Atlas - Pipeline v2
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Pipeline](https://img.shields.io/badge/Pipeline-v2-blue)
+
 ## Overview
 This repository contains Pipeline v2 for the Human Immune Multiomics Atlas. It leverages a Multimodal Variational Autoencoder (MVAE2) to effectively integrate single-cell RNA and ATAC-seq data into a shared latent space. By combining these modalities, the pipeline achieves highly accurate predictions and classification across diverse human immune cell populations.
 
